@@ -1,2 +1,5 @@
 # latihan-squash
-repository untuk latihan squash
+**daftar perubahan commit yang sudah dilakukan**
+* perubahan pertama
+* perubahan kedua
+* perubahan ketiga
